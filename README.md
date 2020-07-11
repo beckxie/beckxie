@@ -4,7 +4,7 @@
 
 Some quick things about me:
 
-- :triangular_flag_on_post: Working on [`Taiwan`][Wiki-Taiwan].
+- :triangular_flag_on_post: Working in [`Taiwan`][Wiki-Taiwan].
 - :boy: Knowledge of distributed architecture and Experience working in [`MemSQL`][Official-MemSQL], `Apache Cassandra`.
 - :baby: I'm currently learning `GCP`, `DevOps` and `Golang`.
 
