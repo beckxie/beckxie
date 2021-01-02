@@ -8,10 +8,12 @@ Some quick things about me:
 - :boy: Knowledge of distributed architecture and Experience working in [`MemSQL`][Official-MemSQL], `Apache Cassandra`.
 - :baby: I'm currently learning `GCP`, `DevOps` and `Golang`.
 
-![Beck's github stats]
-![Beck's github Top Langs]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beckxie&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckxie&theme=gruvbox&langs_count=10" />
+</a>
 
 [Official-MemSQL]:https://www.memsql.com/
 [Wiki-Taiwan]:https://en.wikipedia.org/wiki/Taiwan
-[Beck's github stats]:https://github-readme-stats.vercel.app/api?username=beckxie&count_private=true&show_icons=true&theme=gruvbox
-[Beck's github Top Langs]:https://github-readme-stats.vercel.app/api/top-langs/?username=beckxie&theme=gruvbox&langs_count=10
