@@ -9,7 +9,7 @@ Some quick things about me:
 - :baby: I'm currently learning `GCP`, `DevOps` and `Golang`.
 
 <a href="https://github.com/beckxie">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=beckxie&count_private=true&show_icons=true&theme=gruvbox" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=beckxie&count_private=true&show_icons=true&theme=gruvbox&hide=stars" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckxie&theme=gruvbox&langs_count=10" />
 </a>
 
